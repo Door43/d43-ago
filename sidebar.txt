@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ago:home|Door43 (ago)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ago|d43-ago repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ago/archive/master.zip|d43-ago.zip]]
+
+**Recent Changes**
+{{changes>ns = ago}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ago|Ethnologue data]]
+
